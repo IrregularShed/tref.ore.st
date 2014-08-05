@@ -1,3 +1,6 @@
+---
+title: First page of shiznit
+---
 Hello
 =====
 
